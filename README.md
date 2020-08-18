@@ -1,7 +1,9 @@
-#  Dolavan  Gomes Silva
+#  Dolavan  Gomes 
+
 ## formação academica
-*ensino  medio completo
-*cursando  encino superior
-##Dados Pessoais
-*idade:22 anos
-*estado civil : casado
++Encino medio conpleto
++cursando encino superior
+
+## Dados pessoais :
++Idade:22 Anos
++cidade: Sao pauo
